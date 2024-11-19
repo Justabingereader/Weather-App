@@ -45,7 +45,7 @@ Usage:
 
 Run the application:
 
-python weather_app.py
+python main.py
 Enter a city name in the input box and click the Get Weather button.
 
 The app will display:
